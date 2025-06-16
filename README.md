@@ -8,6 +8,6 @@ If it does not work the first time, delete the files, re-download, and try again
 
 If is giving you trouble, try to run it a couple of times. 
 
-If it does not with after these previous attempts, please contact me and I will be more than happy to help. 
+If it does not work after these previous attempts, please contact me and I will be more than happy to help. 
 
 Contact - @madisenperez on TG
